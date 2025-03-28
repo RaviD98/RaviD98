@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravid_098" target="blank"><img src="https://img.shields.io/twitter/follow/ravid_098?logo=twitter&style=for-the-badge" alt="ravid_098" /></a> </p>
 
-- 🔭 I’m currently working on **LMS Project**
+- 🔭 I’m currently working on **AI Mock Interview Project**
 
 - 🌱 I’m currently learning **Typescript**
 
