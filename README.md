@@ -78,6 +78,9 @@
   </div>
 
 </div>
-
+<div align="center">
+  
+![snake gif](https://github.com/RaviD98/RaviD98/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 </div>
